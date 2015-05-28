@@ -1,0 +1,5 @@
+[ R: commons-io-2.4-sources.jar;
+	commons-io-2.4.jar;
+	substance-6.2-tools.jar;
+	substance-6.2.jar;
+	trident.jar; ]
